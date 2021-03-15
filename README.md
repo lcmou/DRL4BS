@@ -2,6 +2,8 @@
 
 Code for reproducing results in [Deep Reinforcement Learning for Band Selection in Hyperspectral Image Classification](https://github.com/lcmou/DRL4BS/blob/main/README.md).
 
+Due to the file size limit, the code can be found at [here]().
+
 If you find it useful and use it in your research, please kindly use the following BibTex entry.
 ```
 @article{DRL4BS,
